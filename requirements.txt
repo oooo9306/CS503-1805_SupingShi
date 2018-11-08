@@ -1,0 +1,7 @@
+get==1.0.3
+kafka-python==1.4.3
+post==1.0.2
+public==2.0.1
+query-string==1.0.2
+request==1.0.2
+schedule==0.5.0
